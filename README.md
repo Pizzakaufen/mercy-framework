@@ -32,12 +32,6 @@ If you still have questions, feel free to join our discord server. We are more t
 We encourage developers to contribute to the Mercy Framework and help us improve the project. Whether you find a bug, have a feature request, or want to submit a pull request, we welcome your contributions.
 
 
-## Community and Support
-
-Join our Discord server to connect with other developers, seek assistance, and stay up-to-date with the latest announcements and updates regarding the Mercy Framework.
-
-[![Join our Discord server](https://discordapp.com/api/guilds/878379225357369404/widget.png?style=banner2)](https://dsc.gg/mercy-coll)
-
 ## License
 
 Mercy Framework is released under the [GNU General Public License](LICENSE). You can redistribute it and/or modify it under the terms of the GNU General Public License as published by
